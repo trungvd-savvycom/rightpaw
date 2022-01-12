@@ -105,10 +105,21 @@ This is an example of how to list things you need to use the software and how to
 
 
 
-<!-- USAGE EXAMPLES -->
+<!-- USAGE -->
 ## Usage
 
-Comming soon!
+### Web
+http://localhost:3001
+
+### GraphQL playground
+http://localhost:3000/graphql
+
+### Unit test
+```bash
+cd docker
+docker-compose -f docker-compose.local.yml exec rightpaw-app sh -c "yarn test"
+```
+
 _For more examples, please refer to the [Documentation](https://github.com/ekevjn/rightpaw-api)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>

@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ekevjn/rightpaw-api">
+  <a href="https://github.com/trungvd-savvycom/rightpaw">
     <img src="https://rightpaw.com.au/static/media/rightpaw-breeder-badge.525d900a.svg" alt="Logo" width="80" height="80">
   </a>
 
@@ -10,14 +10,14 @@
   <p align="center">
     We make finding a dog online simpler, safer and more supportive.
     <br />
-    <a href="https://github.com/ekevjn/rightpaw-api"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/trungvd-savvycom/rightpaw"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ekevjn/rightpaw-api">View Demo</a>
+    <a href="https://github.com/trungvd-savvycom/rightpaw">View Demo</a>
     ·
-    <a href="https://github.com/ekevjn/rightpaw-api/issues">Report Bug</a>
+    <a href="https://github.com/trungvd-savvycom/rightpaw/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ekevjn/rightpaw-api/issues">Request Feature</a>
+    <a href="https://github.com/trungvd-savvycom/rightpaw/issues">Request Feature</a>
   </p>
 </div>
 
@@ -84,7 +84,7 @@ This is an example of how to list things you need to use the software and how to
 ### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/ekevjn/rightpaw-api.git
+   git clone https://github.com/trungvd-savvycom/rightpaw.git
    ```
 2. Install NPM packages
    ```sh
@@ -118,7 +118,7 @@ cd docker
 docker-compose -f docker-compose.local.yml exec rightpaw-app sh -c "yarn test"
 ```
 
-_For more examples, please refer to the [Documentation](https://github.com/ekevjn/rightpaw-api)_
+_For more examples, please refer to the [Documentation](https://github.com/trungvd-savvycom/rightpaw)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -129,7 +129,7 @@ _For more examples, please refer to the [Documentation](https://github.com/ekevj
 
 Comming soon!
 
-See the [open issues](https://github.com/ekevjn/rightpaw-api/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/trungvd-savvycom/rightpaw/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -165,6 +165,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/ekevjn/rightpaw-api](https://github.com/ekevjn/rightpaw-api)
+Project Link: [https://github.com/trungvd-savvycom/rightpaw](https://github.com/trungvd-savvycom/rightpaw)
 
 <p align="right">(<a href="#top">back to top</a>)</p>

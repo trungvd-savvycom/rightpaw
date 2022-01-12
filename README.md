@@ -52,9 +52,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-Backend API
-
+RightPaw was started by a team of passionate dog lovers who all had the same 'ruff' experience. We went through the painstaking process of trying to find a puppy online. And it was exhausting! So many websites, no transparency around ethical standards, and no support along the way. And this is a big problem, not just for us humans. Many of the issues dogs face - from health concerns, to behavioural problems, and even ending up in shelters - can be traced back to a difficult start in life. We believe the single biggest difference you can make to a dog's life, and the wider industry, is at the very start. So we're building a better beginning. We're here to help every dog and owner start off on the RightPaw.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
